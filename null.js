@@ -5,4 +5,6 @@ function pesto (obj){
     return Object.keys(obj).length;
 }
 
+document.addEventListener
+
 console.log(pesto(null));
