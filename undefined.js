@@ -2,7 +2,7 @@
 
 var x;
 console.log(x);
-
+console.log(y);
 
 function pesto (a,b){
     console.log('hi');
