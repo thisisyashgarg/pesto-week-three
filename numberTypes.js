@@ -3,9 +3,6 @@ console.log(`Type of null is ${typeof null}`);
 console.log(`Type of undefined is ${typeof undefined}`);
 console.log( `Type of NaN is ${typeof NaN}`);
 console.log(` Type of Infinity is ${typeof Infinity}`);
-
-
-
 console.log(typeof NaN);
 
 

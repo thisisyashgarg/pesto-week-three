@@ -17,11 +17,10 @@
 
 
 //dynamic type checked
-
-function add (a, b){
-    console.log(a + b); // no error
-}
-add();
+// function add (a, b){
+//     console.log(a + b); // no error
+// }
+// add();
 
 //statically type check like c++, java
 // int a = 10;

@@ -1,3 +1,4 @@
 console.log('3' === 3);
 console.log('' == false);
-console.log(Number('yash'));
+
+'3' === 3;
