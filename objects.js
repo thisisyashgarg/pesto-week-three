@@ -15,7 +15,6 @@ const person = {
 //cyclic nesting
 const person2 = {}
 person2['ab'] = person2; 
-
 console.log(person2);
 
 

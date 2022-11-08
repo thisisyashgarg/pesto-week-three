@@ -28,7 +28,3 @@ for(let i = 0; i < 3; i++){
     }, 1000);
 }
 
-function a (){
-    console.log('hi')
-}
-var b = a();
